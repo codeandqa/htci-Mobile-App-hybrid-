@@ -18,7 +18,7 @@ angular.module('starter.services', ['ionic'])
          },
          {
            id: 1,
-           date: 'Day 1:  6/3/2015 Thursday',
+           date: 'Day 2:  6/3/2015 Thursday',
            t1: '8:00am - 12:00pm',
            kp1: 'Panchagavya Snapanam for all Devatas, Gopura Chaayasnapanam, Sarvadevata Pradhaana Homam, Gopura Maanonmaana Pramaana, Shanti Homam, Dhaanyadhivasam & Gopurakalshasthapanam',
            note1: ['Devotees will be able to offer Dhaanyam to all Deities', 'All Gopura Kalashams will be taken in Procession for installation', 'Devotees can offer Navaratnam inside Sanctum Sanctorum all day' ],
@@ -33,7 +33,7 @@ angular.module('starter.services', ['ionic'])
          },
          {
            id: 2,
-           date: 'Day 1:  6/3/2015 Friday',
+           date: 'Day 3:  6/3/2015 Friday',
            t1: '8:00am - 12:00pm',
            kp1: 'Pradhana Homam for all Devatas, Navaratna Nyasam and Yantra Sthapanam',
            note1: ['Devotees will be able to offer Navaratnam until 8:30am', 'Sthapathi will start installing Deities inside Sanctum Sanctorum'],
@@ -48,7 +48,7 @@ angular.module('starter.services', ['ionic'])
          },
          {
            id: 3,
-           date: 'Day 1:  6/3/2015 Saturday',
+           date: 'Day 4:  6/3/2015 Saturday',
            t1: '8:00am - 12:00pm',
            kp1: 'Pradhana Homam for all devatas, Moorthi Homam, Nanavidha Anna Homam, Nanavidha Phala(Fruits) Homam & Grudhashirorpanam (Thailabhishekam) ',
            note1: ['Devotees will be able to apply Oil on all Deities feet between 12pm - 4pm' ],
@@ -63,7 +63,7 @@ angular.module('starter.services', ['ionic'])
          },
          {
            id: 4,
-           date: 'Day 1:  6/3/2015 Sunday',
+           date: 'Day 5:  6/3/2015 Sunday',
            t1: '7:00am - 2:00pm',
            kp1: ['Pradhana Homam, Maha Purnahuti, Raja Gopura, Vimana Gopura, Dwajastambha Kumbhabhishekam, Moorthi Kumbhabhishekam, Pranaprathistapanam,'+
                 'Mahaneerikshanam, Panchamritha Abhishekam, Aalankaram, Prathama Archana, Mahanivedanam, Baliharanam, Mangala Aarati, Prasad, Acharya, Ritwik,'+
